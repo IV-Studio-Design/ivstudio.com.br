@@ -1,3 +1,22 @@
 <template>
-	home
+	<section class="w-ful flex flex-col items-center bg-blurry-eye bg-center bg-cover bg-no-repeat relative">
+		<div class="w-full h-full flex justify-center items-center px-28 pt-52 pb-36">
+			<div class="space-y-5">
+				<div>
+					<h1 class="text-center md:text-left text-4xl/10 lg:text-5xl/10 font-bold text-white font-montserrat whitespace-nowrap">Experts <br> em dar a vida <br> às ideias <br> através do <br> design.</h1>
+				</div>
+				<div>
+					<p class="text-center md:text-left text-white font-montserrat text-lg/6 lg:text-xl/6 whitespace-nowrap">Atendemos clientes do <br> Brasil e do mundo. <br>
+						Somos focados em criar <br> soluções funcionais <br> com criatividade!
+						</p>
+				</div>
+				<div class="flex justify-center md:justify-start">
+					<a href="#" class="mt-1 block font-black font-montserrat font-bold bg-white rounded-3xl px-6 py-2.5 whitespace-nowrap">Entre em contato</a>
+				</div>
+			</div>
+			<div class="hidden md:block">
+				<img class="max-w-[30rem]" src="../assets/images/hero-image-placeholder.png">
+			</div>
+		</div>
+	</section>
 </template>
