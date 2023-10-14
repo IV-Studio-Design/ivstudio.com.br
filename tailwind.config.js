@@ -5,7 +5,11 @@ module.exports = {
     './src/**/*.{vue,js,jsx,ts,tsx}'
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'blurry-eye': "url('src/assets/images/bg-eye-blurry.png')"
+      }
+    },
     fontFamily: {
       montserrat:['Montserrat', 'sans-serif']
     },
