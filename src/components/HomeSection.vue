@@ -15,7 +15,7 @@
 				</div>
 			</div>
 			<div class="hidden md:block">
-				<img class="max-w-[30rem]" src="../assets/images/hero-image-placeholder.png">
+				<img class="max-w-[30rem]" src="../assets/images/hero-image.png">
 			</div>
 		</div>
 	</section>
