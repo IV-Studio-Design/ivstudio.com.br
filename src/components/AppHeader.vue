@@ -2,7 +2,7 @@
 	<header>
 		<div class="fixed top-0 left-0 z-10 w-full flex md:gap-28 lg:gap-x-36 justify-between md:justify-center items-center pt-16 px-16 transition-all">
 			<div>
-				<a class="hidden sm:block" href="https://ivstudio.com.br"><img id="logo" class="w-52 lg:w-64" src="../assets/images/ivstudio-logo.png"></a>
+				<a class="hidden sm:block" href="https://ivstudio.com.br"><img id="logo" class="min-w-[13rem] w-56 lg:w-64" src="../assets/images/ivstudio-logo.png"></a>
 				<a class="sm:hidden" href="https://ivstudio.com.br"><img class="w-16" src="../assets/images/iv-icon.png"></a>
 			</div>
 			<div>
