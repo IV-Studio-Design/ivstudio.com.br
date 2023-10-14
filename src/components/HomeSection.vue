@@ -1,5 +1,5 @@
 <template>
-	<section class="w-ful flex flex-col items-center bg-blurry-eye bg-center bg-cover bg-no-repeat relative">
+	<section class="w-ful flex flex-col items-center bg-blurry-eye bg-center bg-cover bg-no-repeat relative z-10">
 		<div class="w-full h-full flex justify-center items-center px-28 pt-52 pb-36">
 			<div class="space-y-5">
 				<div>
