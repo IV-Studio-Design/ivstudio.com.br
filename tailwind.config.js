@@ -7,7 +7,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'blurry-eye': "url('src/assets/images/bg-eye-blurry.png')"
+        'blurry-eye': "url('src/assets/images/bg-eye-blurry.png')",
+        'iv-icon': "url('src/assets/images/bg-iv-opacity.png')"
       }
     },
     fontFamily: {
