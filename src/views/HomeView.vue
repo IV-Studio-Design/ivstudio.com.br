@@ -16,6 +16,7 @@
 	<!-- ====== -->
 
 	<ContactSection />
+	<AppFooter />
 
 </template>
 
@@ -25,4 +26,5 @@
 	import AboutSection from '@/components/AboutSection.vue'
 	import ProjectsSection from '@/components/ProjectsSection.vue'
 	import ContactSection from '@/components/ContactSection.vue'
+	import AppFooter from '@/components/AppFooter.vue'
 </script>
