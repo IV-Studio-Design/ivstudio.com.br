@@ -8,7 +8,9 @@ module.exports = {
     extend: {
       backgroundImage: {
         'blurry-eye': "url('src/assets/images/bg-eye-blurry.png')",
-        'iv-icon': "url('src/assets/images/bg-iv-opacity.png')"
+        'iv-icon': "url('src/assets/images/bg-iv-opacity.png')",
+        'thales-dev': "url('src/assets/images/projects/Thales-Web-Developer.png')",
+        'solane-clenia': "url('src/assets/images/projects/Solane-Clenia.png')"
       }
     },
     fontFamily: {
