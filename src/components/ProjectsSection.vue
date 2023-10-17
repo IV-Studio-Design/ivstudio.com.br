@@ -1,6 +1,6 @@
 <template>
-	<section id="projetos" class="bg-neutral-900">
-		<div class="w-full h-full flex flex-col gap-y-16 justify-center items-center bg-black px-5 py-28">
+	<section id="projetos">
+		<div class="w-full h-full flex flex-col gap-y-16 justify-center items-center bg-black px-5 py-28 rounded-t-[80px]">
 			<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 grid-rows-3 gap-5">
 				<div class="sm:row-span-2 w-full max-w-[18rem] h-full bg-neutral-900 rounded-[50px] bg-thales-dev bg-cover bg-center overflow-hidden">
 					<!-- image in background-image css -->
@@ -24,9 +24,9 @@
 					<img class="w-full h-full" src="../assets/images/projects/Vex.png" alt="Vex"/>
 				</div>
 			</div>
-			<!-- <div>
+			<div>
 				<a href="#" class="font-black font-montserrat font-bold bg-white rounded-3xl px-6 py-2.5">Veja todos os projetos</a>
-			</div> -->
+			</div>
 		</div>
 	</section>
 </template>

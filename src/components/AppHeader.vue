@@ -65,7 +65,7 @@
 	}
 
 	.logo-on {
-		@apply min-w-[13rem] w-56 lg:w-56 transition-all
+		@apply min-w-[13rem] w-56 lg:w-48 transition-all
 	}
 
 	.logo-off {

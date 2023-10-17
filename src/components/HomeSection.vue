@@ -1,9 +1,9 @@
 <template>
-	<section class="w-ful flex flex-col items-center bg-blurry-eye bg-center bg-cover bg-no-repeat relative z-10">
-		<div class="w-full h-full flex flex-col-reverse md:flex-row gap-y-5 justify-center items-center px-28 pt-52 pb-28 md:pb-36">
+	<section class="w-ful flex flex-col items-center bg-blurry-eye bg-center bg-cover bg-no-repeat relative z-10 rounded-b-[80px] overflow-hidden">
+		<div class="w-full h-full flex flex-col-reverse md:flex-row gap-y-5 justify-center items-center px-28 pt-40 md:pt-52 pb-28 md:pb-36">
 			<div class="space-y-5">
 				<div>
-					<h1 class="text-center md:text-left text-4xl/10 lg:text-5xl/10 font-bold text-white font-montserrat whitespace-nowrap">Experts <br> em dar a vida <br> às ideias <br> através do <br> design.</h1>
+					<h1 class="text-center md:text-left text-4xl/10 lg:text-5xl/[47px] font-bold text-white font-montserrat whitespace-nowrap">Experts <br> em dar vida <br> às ideias <br> através do <br> design.</h1>
 				</div>
 				<div>
 					<p class="text-center md:text-left text-white font-montserrat text-lg/6 lg:text-xl/6 whitespace-nowrap">Atendemos clientes do <br> Brasil e do mundo. <br>

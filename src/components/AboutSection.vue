@@ -6,39 +6,39 @@
 			</div>
 			<div class="space-y-7 mt-10">
 				<div>
-					<h1 class="text-center md:text-left text-3xl/9 lg:text-4xl/9 font-bold text-white font-montserrat whitespace-nowrap">Somos focados <br> em criar soluções <br> funcionais com <br> criatividade!</h1>
+					<h1 class="text-center md:text-left text-3xl/9 lg:text-5xl/[50px] font-bold text-white font-montserrat whitespace-nowrap">Somos focados <br> em criar soluções <br> funcionais com <br> criatividade!</h1>
 				</div>
 				<div class="w-full max-w-[25rem] space-y-5">
 					<div class="">
-						<p class="text-center md:text-left text-white text-base/6 lg:text-lg/6 font-montserrat break-words">
-							O nosso stúdio surgiu da vontade
-							e do prazer em fazer parte da história
-							de cada cliente através dos
-							nossos projetos.
+						<p class="text-center md:text-left text-white text-base/6 lg:text-lg/6 font-montserrat whitespace-nowrap">
+							O nosso estúdio surgiu da vontade <br>
+							e do prazer em fazer parte da história <br>
+							de cada cliente através dos <br>
+							nossos projetos. <br>
 						</p>
 					</div>
 					<div class="">
-						<p class="text-center md:text-left text-white text-base/6 lg:text-lg/6 font-montserrat break-words">
-							Acreditamos que o design tem o poder
-							de contar histórias, transmitir emoções 
-							e fortalecer marcas. Combinamos 
-							expertise técnica e uma 
-							arbodagem colaborativa para 
-							desenvolver projetos únicos e 
-							personalizados. 
+						<p class="text-center md:text-left text-white text-base/6 lg:text-lg/6 font-montserrat whitespace-nowrap">
+							Acreditamos que o design tem o poder <br>
+							de contar histórias, transmitir emoções <br>
+							e fortalecer marcas. Combinamos <br>
+							expertise técnica e uma <br>
+							arbodagem colaborativa para <br>
+							desenvolver projetos únicos e <br>
+							personalizados. <br>
 						</p>
 					</div>
 					<div class="">
-						<p class="text-center md:text-left text-white text-base/6 lg:text-lg/6 font-montserrat break-words">
+						<p class="text-center md:text-left text-white text-base/6 lg:text-lg/6 font-montserrat whitespace-nowrap">
 							Desde identidades visuais até interfaces <br>
 							intuitivas e websites atraentes, estamos <br>
-							aqui para ajuda-lo a alcançar seus <br>
-							objetivos de design.
+							aqui para ajudá-lo a alcançar seus <br>
+							objetivos através do design.
 						</p>
 					</div>
 					<div class="">
-						<p class="text-center md:text-left text-white text-base/6 lg:text-lg/6 font-montserrat break-words">
-							Seja bem-vindo ao nosso stúdio de <br>
+						<p class="text-center md:text-left text-white text-base/6 lg:text-lg/6 font-montserrat whitespace-nowrap">
+							Seja bem-vindo ao nosso estúdio de <br>
 							design, onde suas ideias ganham vida!
 						</p>
 					</div>

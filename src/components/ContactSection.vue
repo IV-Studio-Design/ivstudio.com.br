@@ -1,5 +1,5 @@
 <template>
-	<section id="contato" class="w-full h-full bg-black">
+	<section id="contato" class="w-full h-full bg-black py-5">
 		<div class="w-full h-full py-20 flex justify-center items-center px-5">
 			<div class="w-full max-w-4xl flex flex-wrap md:flex-nowrap gap-16 justify-center items-center p-10 bg-[#101010] rounded-[60px]">
 				<div class="w-64 h-80 bg-neutral-700 rounded-3xl">
