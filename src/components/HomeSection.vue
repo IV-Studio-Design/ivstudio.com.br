@@ -1,6 +1,6 @@
 <template>
 	<section class="w-ful flex flex-col items-center bg-blurry-eye bg-center bg-cover bg-no-repeat relative z-10">
-		<div class="w-full h-full flex justify-center items-center px-28 pt-52 pb-36">
+		<div class="w-full h-full flex flex-col-reverse md:flex-row gap-y-5 justify-center items-center px-28 pt-52 pb-28 md:pb-36">
 			<div class="space-y-5">
 				<div>
 					<h1 class="text-center md:text-left text-4xl/10 lg:text-5xl/10 font-bold text-white font-montserrat whitespace-nowrap">Experts <br> em dar a vida <br> às ideias <br> através do <br> design.</h1>
@@ -11,11 +11,11 @@
 						</p>
 				</div>
 				<div class="flex justify-center md:justify-start">
-					<a href="#" class="mt-1 block font-black font-montserrat font-bold bg-white rounded-3xl px-6 py-2.5 whitespace-nowrap">Entre em contato</a>
+					<a href="#" class="mt-1 block font-black font-montserrat font-bold bg-green-400 rounded-3xl px-6 py-2.5 whitespace-nowrap">Entre em contato</a>
 				</div>
 			</div>
-			<div class="hidden md:block">
-				<img class="max-w-[30rem]" src="../assets/images/hero-image.png">
+			<div>
+				<img class="max-w-[13rem] md:max-w-[30rem]" src="../assets/images/hero-image.png">
 			</div>
 		</div>
 	</section>
