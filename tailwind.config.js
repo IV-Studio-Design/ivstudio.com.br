@@ -11,10 +11,13 @@ module.exports = {
         'iv-icon': "url('src/assets/images/bg-iv-opacity.png')",
         'thales-dev': "url('src/assets/images/projects/Thales-Web-Developer.png')",
         'solane-clenia': "url('src/assets/images/projects/Solane-Clenia.png')"
+      },
+      fontFamily: {
+        montserrat:['Montserrat', 'sans-serif']
+      },
+      boxShadow: {
+        'header': '0px 5px 5px rgba(0,0,0,.4)'
       }
-    },
-    fontFamily: {
-      montserrat:['Montserrat', 'sans-serif']
     },
   },
   plugins: [],
