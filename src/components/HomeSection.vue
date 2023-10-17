@@ -11,7 +11,7 @@
 						</p>
 				</div>
 				<div class="flex justify-center md:justify-start">
-					<a href="#" class="mt-1 block font-black font-montserrat font-bold bg-green-400 rounded-3xl px-6 py-2.5 whitespace-nowrap">Entre em contato</a>
+					<a href="#" class="mt-1 block font-black font-montserrat font-bold bg-[#00ff7b] rounded-3xl px-6 py-2.5 whitespace-nowrap">Entre em contato</a>
 				</div>
 			</div>
 			<div>
