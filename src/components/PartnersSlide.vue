@@ -1,0 +1,3 @@
+<template>
+	slide
+</template>
