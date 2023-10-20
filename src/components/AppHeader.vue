@@ -14,7 +14,7 @@
 						<li><a id="contato-link" :class="navItem" href="#contato">Contato</a></li>
 					</ul>
 				</nav>
-				<div class="md:hidden">
+				<div @click="openDrawer()" class="md:hidden">
 					<button id="open-drawer-btn" class="space-y-1.5 mt-2">
 						<div class="w-8 h-1 bg-white rounded"></div>
 						<div class="w-8 h-1 bg-white rounded"></div>
@@ -23,7 +23,15 @@
 				</div>
 			</div>
 
-			<SideMenu />
+			<Transition
+				enter-active-class="animate__animated animate__slideInRight"
+				leave-active-class="animate__animated animate__slideOutRight"
+			>
+				<SideMenu 
+					v-show="drawerIsOpen"
+					@close="closeDrawer()"
+				/>
+			</Transition>
 		</div>
 	</header>
 </template>
@@ -32,6 +40,7 @@
 	import {ref, onMounted, onBeforeUnmount} from 'vue'
 	import SideMenu from './SideMenu.vue'
 
+	const drawerIsOpen = ref(false)
 	const headerStyle = ref("desactived-header")
 	const logoStyle = ref("logo-off")
 	const navItem = ref("nav-item-off")
@@ -47,6 +56,9 @@
 			navItem.value = "nav-item-on"
 		}
 	}
+
+	const openDrawer = () => drawerIsOpen.value = true
+	const closeDrawer = () => drawerIsOpen.value = false
 
 	onMounted(() => {
 		window.addEventListener('scroll', configHeader)
