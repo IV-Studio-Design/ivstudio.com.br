@@ -2,7 +2,7 @@
 	<section id="contato" class="w-full h-full bg-black py-5">
 		<div class="w-full h-full py-20 flex justify-center items-center px-5">
 			<div class="w-full max-w-[55rem] py-10 flex flex-wrap md:flex-nowrap gap-x-16 gap-y-8 justify-center items-center bg-[#101010] rounded-[60px]">
-				<div class="w-64 sm:w-72 h-80 bg-contact-banner bg-cover bg-center rounded-3xl">
+				<div class="w-64 sm:w-72 h-44 sm:h-80 bg-contact-banner bg-cover bg-center rounded-3xl">
 					<!-- image in background-image css -->
 				</div>
 				<div>
