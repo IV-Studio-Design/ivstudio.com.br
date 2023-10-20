@@ -22,12 +22,15 @@
 					</button>
 				</div>
 			</div>
+
+			<SideMenu />
 		</div>
 	</header>
 </template>
 
 <script setup>
 	import {ref, onMounted, onBeforeUnmount} from 'vue'
+	import SideMenu from './SideMenu.vue'
 
 	const headerStyle = ref("desactived-header")
 	const logoStyle = ref("logo-off")
