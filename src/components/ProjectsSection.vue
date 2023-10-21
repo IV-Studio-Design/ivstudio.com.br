@@ -25,7 +25,7 @@
 				</div>
 			</div>
 			<div>
-				<a href="#" class="font-black font-montserrat font-bold bg-white rounded-3xl px-6 py-2.5">Veja todos os projetos</a>
+				<a href="https://wa.me/message/LKGVV4OYMYBYO1" target="_blank" class="font-black font-montserrat font-bold bg-white rounded-3xl px-6 py-2.5">Veja todos os projetos</a>
 			</div>
 		</div>
 	</section>

@@ -44,7 +44,7 @@
 					</div>
 				</div>
 				<div class="flex justify-center md:justify-start items-center">
-					<a href="#" class="block font-black font-montserrat font-bold bg-white rounded-3xl px-6 py-2.5">Fale conosco!</a>
+					<a href="https://wa.me/message/LKGVV4OYMYBYO1" target="_blank" class="block font-black font-montserrat font-bold bg-white rounded-3xl px-6 py-2.5">Fale conosco!</a>
 				</div>
 			</div>
 		</div>
