@@ -6,14 +6,6 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'blurry-eye': "url('../assets/images/bg-eye-blurry.png')",
-        'iv-icon': "url('../assets/images/bg-iv-opacity.png')",
-        'thales-dev': "url('../assets/images/projects/Thales-Web-Developer.png')",
-        'solane-clenia': "url('../assets/images/projects/Solane-Clenia.png')",
-        'blurry-eye-iv': "url('../assets/images/bg-eye-iv.png')",
-        'contact-banner': "url('../assets/images/contact_banner.png')"
-      },
       fontFamily: {
         montserrat:['Montserrat', 'sans-serif']
       },

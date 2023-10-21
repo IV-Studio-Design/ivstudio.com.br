@@ -1,5 +1,5 @@
 <template>
-	<section id="sobre" class="px-10 bg-neutral-900 bg-iv-icon bg-cover bg-center">
+	<section id="sobre" class="px-10 bg-neutral-900 iv-opacity bg-cover bg-center">
 		<div class="w-full h-full flex gap-x-16 justify-center items-center py-10">
 			<div class="hidden md:block">
 				<img class="relative -top-[8rem] left-0 w-[30rem] lg:w-[35rem]" src="../assets/images/crachas.png">
@@ -50,3 +50,9 @@
 		</div>
 	</section>
 </template>
+
+<style scoped>
+	.iv-opacity {
+		background-image: url('../assets/images/bg-iv-opacity.png');
+	}
+</style>

@@ -1,5 +1,5 @@
 <template>
-	<div class="flex flex-col justify-center gap-y-16 sm:gap-0 sm:justify-start items-center w-full h-screen bg-neutral-900 bg-blurry-eye-iv bg-cover bg-center">
+	<div class="flex flex-col justify-center gap-y-16 sm:gap-0 sm:justify-start items-center w-full h-screen bg-neutral-900 blurry-eye-iv-image bg-cover bg-center">
 		<div class="flex flex-col justify-center items-center gap-y-10 w-full sm:h-full">
 			<div>
 				<img class="w-24" src="../assets/images/iv-icon.png">
@@ -97,3 +97,9 @@
 		</footer>
 	</div>
 </template>
+
+<style scoped>
+	.blurry-eye-iv-image {
+		background-image: url('../assets/images/bg-eye-iv.png');
+	}
+</style>
