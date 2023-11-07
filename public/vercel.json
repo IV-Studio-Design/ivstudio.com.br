@@ -1,5 +1,7 @@
 {
-  "routes":  [
-      {"source": "/[^.]+", "destination": "/", "status": 200}
+  "routes": [
+    { "src": "/", "dest": "/" },
+    { "src": "/home", "dest": "/" }
+    { "src": "/links", "dest": "/" }
   ]
 }
