@@ -6,7 +6,7 @@
 			</div>
 			<div class="text-center">
 				<p class="text-white text-xs sm:text-base font-madeTommy">
-					&copy 2023 <span class="font-bold">IV Studio</span>. Todos os diretos reservados.
+					&copy 2024 <span class="font-bold">IV Studio</span>. Todos os diretos reservados.
 				</p>
 				<p class="text-white text-xs sm:text-base font-madeTommy">
 					Desenvolvido por <span class="font-bold">Thales Web Developer</span>.

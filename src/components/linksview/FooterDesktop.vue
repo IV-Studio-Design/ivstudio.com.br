@@ -4,7 +4,7 @@
 			<a href="https://ivstudio.com.br"><img class="w-40" src="@/assets/images/ivstudio-logo.png"></a>
 		</div>
 		<div>
-			<p class="text-white text-center text-sm">&copy 2023 IV Studio. Todos os direitos reservados.</p>
+			<p class="text-white text-center text-sm">&copy 2024 IV Studio. Todos os direitos reservados.</p>
 			<p class="text-white text-center text-sm">Desenvolvido por Thales Web Developer.</p>
 		</div>
 		<div>
