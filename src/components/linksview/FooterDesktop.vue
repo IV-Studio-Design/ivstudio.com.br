@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full hidden sm:flex justify-between items-center px-28 py-5 sm:bg-black">
+    <div class="w-full hidden sm:flex justify-between items-center px-3 md:px-14 lg:px-28 py-5 sm:bg-black">
         <div>
 			<a href="https://ivstudio.com.br"><img class="w-40" src="@/assets/images/ivstudio-logo.png"></a>
 		</div>
