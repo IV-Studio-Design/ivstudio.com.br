@@ -15,7 +15,7 @@
 				</div>
 			</div>
 			<div>
-				<img class="max-w-[13rem] md:max-w-[30rem]" src="../assets/images/hero-image.png">
+				<img class="max-w-[13rem] md:max-w-[30rem]" src="@/assets/images/hero-image.png">
 			</div>
 		</div>
 	</section>
@@ -23,6 +23,6 @@
 
 <style scoped>
 	.eye-blurry-image {
-		background-image: url('../assets/images/bg-eye-blurry.png');
+		background-image: url('@/assets/images/bg-eye-blurry.png');
 	}
 </style>

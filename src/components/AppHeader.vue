@@ -2,8 +2,8 @@
 	<header>
 		<div :class="header_style">
 			<div>
-				<a class="hidden sm:block" href="https://ivstudio.com.br"><img id="logo" :class="logo_style" src="../assets/images/ivstudio-logo.png"></a>
-				<a class="sm:hidden" href="https://ivstudio.com.br"><img class="w-16" src="../assets/images/iv-icon.png"></a>
+				<a class="hidden sm:block" href="https://ivstudio.com.br"><img id="logo" :class="logo_style" src="@/assets/images/ivstudio-logo.png"></a>
+				<a class="sm:hidden" href="https://ivstudio.com.br"><img class="w-16" src="@/assets/images/icons/iv-icon.png"></a>
 			</div>
 			<div>
 				<nav class="hidden md:block">

@@ -4,42 +4,42 @@
 			<ul class="splide__list flex items-center">
 				<li class="splide__slide">
 					<div class="w-full flex justify-center">
-						<img class="w-20 mr-5" src="../assets/images/partners/geek_planet_logo.png" alt="Geek Planet">
+						<img class="w-20 mr-5" src="@/assets/images/partners/geek_planet_logo.png" alt="Geek Planet">
 					</div>
 				</li>
 				<li class="splide__slide">
 					<div class="w-full flex justify-center">
-						<img class="w-44" src="../assets/images/partners/thales_developer_logo.png" alt="Thales Web Developer">
+						<img class="w-44" src="@/assets/images/partners/thales_developer_logo.png" alt="Thales Web Developer">
 					</div>	
 				</li>
 				<li class="splide__slide">
 					<div class="w-full flex justify-center">
-						<img class="w-20" src="../assets/images/partners/lins_fitness.png" alt="Lins Fitness">
+						<img class="w-20" src="@/assets/images/partners/lins_fitness.png" alt="Lins Fitness">
 					</div>
 				</li>
 				<li class="splide__slide">
 					<div class="w-full flex justify-center">
-						<img class="w-28 mr-7" src="../assets/images/partners/vex_logo.png	" alt="Vex">
+						<img class="w-28 mr-7" src="@/assets/images/partners/vex_logo.png	" alt="Vex">
 					</div>
 				</li>
 				<li class="splide__slide">
 					<div class="w-full flex justify-center">
-						<img class="w-36" src="../assets/images/partners/sidirlan_logo.png" alt="Sidirlan">
+						<img class="w-36" src="@/assets/images/partners/sidirlan_logo.png" alt="Sidirlan">
 					</div>
 				</li>
 				<li class="splide__slide">
 					<div class="w-full flex justify-center">
-						<img class="w-12" src="../assets/images/partners/igordesigner.png" alt="Igor Designer">
+						<img class="w-12" src="@/assets/images/partners/igordesigner.png" alt="Igor Designer">
 					</div>
 				</li>
 				<li class="splide__slide">
 					<div class="w-full flex justify-center">
-						<img class="w-44" src="../assets/images/partners/jeivisselly_logo.png" alt="Jeivisselly">
+						<img class="w-44" src="@/assets/images/partners/jeivisselly_logo.png" alt="Jeivisselly">
 					</div>
 				</li>
 				<li class="splide__slide">
 					<div class="w-full flex justify-center">
-						<img class="w-20" src="../assets/images/partners/damaris_toledo_logo.png" alt="Damris Toledo">
+						<img class="w-20" src="@/assets/images/partners/damaris_toledo_logo.png" alt="Damris Toledo">
 					</div>
 				</li>
 			</ul>

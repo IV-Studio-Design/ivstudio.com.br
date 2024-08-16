@@ -25,6 +25,6 @@
 
 <style scoped>
 	.contact-banner-image {
-		background-image: url('../assets/images/contact_banner.png');
+		background-image: url('@/assets/images/contact_banner.png');
 	}
 </style>

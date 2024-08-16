@@ -6,22 +6,22 @@
 					<!-- image in background-image css -->
 				</div>
 				<div class="w-full max-w-[18rem] h-72 bg-neutral-900 rounded-[50px] overflow-hidden">
-					<img class="w-full h-full" src="../assets/images/projects/Jeivisselly-Barros.png" alt="Jeivisselly Barros"/>
+					<img class="w-full h-full" src="@/assets/images/projects/Jeivisselly-Barros.png" alt="Jeivisselly Barros"/>
 				</div>
 				<div class="w-full max-w-[18rem] h-72 bg-neutral-900 rounded-[50px] overflow-hidden">
-					<img class="w-full h-full" src="../assets/images/projects/Sidirlan-Sousa.png" alt="Sidirlan Sousa"/>
+					<img class="w-full h-full" src="@/assets/images/projects/Sidirlan-Sousa.png" alt="Sidirlan Sousa"/>
 				</div>
 				<div class="sm:col-span-2 w-full h-72 bg-neutral-900 rounded-[50px] solane-clenia-image bg-cover bg-center overflow-hidden">
 					<!-- image in background-image css -->
 				</div>
 				<div class="w-full max-w-[18rem] h-72 bg-neutral-900 rounded-[50px] overflow-hidden">
-					<img class="w-full h-full" src="../assets/images/projects/Geek-Planet.png" alt="Geek Planet"/>
+					<img class="w-full h-full" src="@/assets/images/projects/Geek-Planet.png" alt="Geek Planet"/>
 				</div>
 				<div class="w-full max-w-[18rem] h-72 bg-neutral-900 rounded-[50px] overflow-hidden">
-					<img class="w-full h-full" src="../assets/images/projects/Damaris-Toledo.png" alt="Damaris Toledo"/>
+					<img class="w-full h-full" src="@/assets/images/projects/Damaris-Toledo.png" alt="Damaris Toledo"/>
 				</div>
 				<div class="w-full max-w-[18rem] h-72 bg-neutral-900 rounded-[50px] overflow-hidden">
-					<img class="w-full h-full" src="../assets/images/projects/Vex.png" alt="Vex"/>
+					<img class="w-full h-full" src="@/assets/images/projects/Vex.png" alt="Vex"/>
 				</div>
 			</div>
 			<div>
@@ -33,9 +33,9 @@
 
 <style scoped>
 	.thales-dev-image {
-		background-image: url('../assets/images/projects/Thales-Web-Developer.png');
+		background-image: url('@/assets/images/projects/Thales-Web-Developer.png');
 	}
 	.solane-clenia-image {
-		background-image: url('../assets/images/projects/Solane-Clenia.png');
+		background-image: url('@/assets/images/projects/Solane-Clenia.png');
 	}
 </style>
