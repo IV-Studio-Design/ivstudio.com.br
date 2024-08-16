@@ -14,7 +14,7 @@
 							em participar desse projeto!
 						</p>
 						<div class="flex justify-center md:justify-start items-center">
-							<a href="https://wa.me/message/LKGVV4OYMYBYO1" target="_blank" class="block font-black text-base sm:text-lg font-montserrat font-bold bg-[#00ff7b] rounded-3xl px-8 py-2.5 whitespace-nowrap">Quero um orçamento</a>
+							<a href="https://wa.me/message/LKGVV4OYMYBYO1" target="_blank" class="block text-black text-base sm:text-lg font-montserrat font-bold bg-[#00ff7b] rounded-3xl px-8 py-2.5 whitespace-nowrap">Quero um orçamento</a>
 						</div>
 					</div>
 				</div>
