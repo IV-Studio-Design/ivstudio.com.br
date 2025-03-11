@@ -14,9 +14,6 @@ dist-ssr
 coverage
 *.local
 
-site-desktop.pdf
-site-mobile.pdf
-
 /cypress/videos/
 /cypress/screenshots/
 
@@ -29,3 +26,5 @@ site-mobile.pdf
 *.njsproj
 *.sln
 *.sw?
+
+*.tsbuildinfo
