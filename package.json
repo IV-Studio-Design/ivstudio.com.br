@@ -11,6 +11,8 @@
     "type-check": "vue-tsc --build"
   },
   "dependencies": {
+    "@splidejs/splide": "^4.1.4",
+    "@splidejs/splide-extension-auto-scroll": "^0.5.3",
     "@tailwindcss/vite": "^4.0.13",
     "tailwindcss": "^4.0.13",
     "vue": "^3.5.13",
