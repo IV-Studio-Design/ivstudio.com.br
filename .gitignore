@@ -28,3 +28,7 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+# After Tailwind v4, this file became useless.
+# It is only used to activate the VS Code Tailwind CSS IntelliSense extension.
+tailwind.config.ts 
