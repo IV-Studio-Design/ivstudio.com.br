@@ -17,6 +17,9 @@ importers:
       '@tailwindcss/vite':
         specifier: ^4.0.13
         version: 4.0.13(vite@6.2.1(@types/node@22.13.10)(jiti@2.4.2)(lightningcss@1.29.2))
+      animate.css:
+        specifier: ^4.1.1
+        version: 4.1.1
       tailwindcss:
         specifier: ^4.0.13
         version: 4.0.13
@@ -674,6 +677,9 @@ packages:
 
   alien-signals@1.0.4:
     resolution: {integrity: sha512-DJqqQD3XcsaQcQ1s+iE2jDUZmmQpXwHiR6fCAim/w87luaW+vmLY8fMlrdkmRwzaFXhkxf3rqPCR59tKVv1MDw==}
+
+  animate.css@4.1.1:
+    resolution: {integrity: sha512-+mRmCTv6SbCmtYJCN4faJMNFVNN5EuCTTprDTAo7YzIGji2KADmakjVA3+8mVDkZ2Bf09vayB35lSQIex2+QaQ==}
 
   ansi-styles@6.2.1:
     resolution: {integrity: sha512-bN798gFfQX+viw3R7yrGWRqnrN2oRkEkUjjl4JNn4E8GxxbjtG3FbrEIIY3l8/hrwUwIeCZvi4QuOTP4MErVug==}
@@ -1817,6 +1823,8 @@ snapshots:
       vue: 3.5.13(typescript@5.8.2)
 
   alien-signals@1.0.4: {}
+
+  animate.css@4.1.1: {}
 
   ansi-styles@6.2.1: {}
 
