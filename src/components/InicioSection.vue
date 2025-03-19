@@ -9,7 +9,7 @@
 
 <template>
     <section class="w-full bg-black">
-        <div class="w-full h-full flex gap-7 flex-col justify-center items-center px-4 pt-5 md:pt-16 pb-5">
+        <div class="w-full h-full flex gap-7 flex-col justify-center items-center px-4 pt-36 pb-5">
             <h1 class="font-poppins text-white font-semibold text-[28px] sm:text-4xl leading-8 sm:leading-9 text-center">
                 Sites que Convertem <br>
                 e Impulsionam Seu <br>
